@@ -1,4 +1,4 @@
-import { PageHeader } from './components/PageHeader'
+import { PageHeader } from './components/PageHeader/PageHeader'
 import { Sales } from './components/Sales'
 
 function App() {
