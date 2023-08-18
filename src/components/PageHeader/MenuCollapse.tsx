@@ -9,11 +9,15 @@ export function MenuCollapse() {
                 </List>
             </Collapsible.CollapsibleTrigger>
             <Collapsible.CollapsibleContent>
-                <ul className='z-20 absolute right-2 p-4 bg-flag-green text-white font-sans rounded-b-sm'>
-                    <li><p>Teste</p></li>
-                    <li><p>Teste 2</p></li>
-                    <li><p>Teste 3</p></li>
-                </ul>
+                <div>
+                    <ul className='z-20 absolute right-2 p-4 bg-flag-green text-white font-sans rounded-b-sm'>
+                        <li><a>Início</a></li>
+                        <li><a>Cardápio</a></li>
+                        <li><a>Eventos</a></li>
+                        <li><a>Sobre</a></li>
+                        <li><a>Contato</a></li>
+                    </ul>
+                </div>
             </Collapsible.CollapsibleContent>
         </Collapsible.Root>
     )

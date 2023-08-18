@@ -4,3 +4,13 @@ Vermelho: #CB212B
 
 Background
 Marrom (background página inteira): #332727
+
+Acho que pode ser uma boa colocar (criar, inclusive) uma logo da pizzaria, ao invés de usar um ícone de pizza com um h1
+do lado com o nome da pizzaria, ficaria com uma cara mais profissional.
+
+
+"Com 15 anos de tradição, a Pizzaria Gian Carlo trás para você o sabor da Itália com o toque brasileiro que melhora tudo.
+Prezamos pela qualidade dos nossos produtos, buscando sempre o frescor dos ingredientes, refinamento dos métodos de preparo e qualificação
+da nossa equipe, para sempre prestar o melhor atendimento aos nossos clientes.
+
+Nossa visão, missão e valores abaixo, representam o espírito da nossa casa."

@@ -1,13 +1,15 @@
 import { PageHeader } from './components/PageHeader/PageHeader'
-import { Sales } from './components/Sales'
+import { Home } from './components/Home'
+import { PageFooter } from './components/PageFooter'
 
 function App() {
   return (
-    <div className="bg-brown-500 w-screen h-screen">
+    <div className="bg-brown-500 w-screen pb-12">
       <PageHeader></PageHeader>
-      <Sales></Sales>
+      <Home/>
+      <PageFooter/>
     </div>
-  )
+  ) 
 }
 
 export default App
