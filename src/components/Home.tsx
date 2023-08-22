@@ -2,7 +2,7 @@ import { Sales } from './Sales'
 
 export function Home() {
     return (
-        <div className='flex flex-col justify-center w-full mb-12'>
+        <div className='flex flex-col justify-center w-full'>
             <Sales/>
             <div className='w-[95%] my-4 p-3 rounded-md bg-white flex flex-col self-center'>
                 <h3 className='self-center text-lg text'>História da pizza</h3>

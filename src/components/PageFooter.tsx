@@ -1,6 +1,6 @@
 export function PageFooter() {
     return (
-        <div className="bg-flag-red flex justify-around align-middle fixed bottom-0 w-full py-1">
+        <div className="bg-flag-red flex justify-around align-middle static bottom-0 w-full py-1">
 
             <div className="text-white text-sm flex flex-col justify-center">
                     <h5>Horário de funcionamento</h5>
